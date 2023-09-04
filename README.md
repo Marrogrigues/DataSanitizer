@@ -19,7 +19,7 @@ DataSanitizer é um script Python que ajuda a proteger informações sensíveis 
 Clone o repositório e navegue até o diretório onde o script foi salvo.
 
 ```
-git clone https://github.com/usuario/DataSanitizer.git
+git clone https://github.com/Marrogrigues/DataSanitizer.git
 cd DataSanitizer
 ```
 
